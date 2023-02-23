@@ -1,0 +1,1 @@
+# chrome-extensions-mv3-mini-projects
